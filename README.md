@@ -22,6 +22,7 @@ Welcome to my GitHub profile! 🚀 Here, you'll find a mix of projects that refl
 ### 🌐 Current Projects
 - **Full-Stack Coursework:** Creating a web app using Flask and SQLite (scheduled for March).
 - **Angela Yu's Web Development Bootcamp:** Enhancing my skills in web development.
+- **Angela Yu's 100 days of code:** Enhancing my python skills further.
 
 ---
 
