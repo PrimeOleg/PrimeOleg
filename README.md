@@ -34,7 +34,7 @@ Welcome to my GitHub profile! 🚀 Here, you'll find a mix of projects that refl
 
 ## 📈 Fun Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrimeOleg&show_icons=true&theme=radical)
 
 ---
 
