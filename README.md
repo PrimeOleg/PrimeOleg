@@ -1,45 +1,47 @@
-# Hi there 👋
+# Hey there! 👋 Welcome to My GitHub Hub 🚀
 
-Welcome to my GitHub profile! 🚀 Here, you'll find a mix of projects that reflect my passion for technology, programming, and personal growth. I'm an aspiring Machine Learning specialist, and I aim to merge technology with healthcare to make a meaningful impact on the world.
+Here, you'll find a mix of projects that showcase my passion for technology, programming, and personal growth. I'm an aspiring **Machine Learning specialist**, striving to merge **technology with healthcare** to make a real impact on the world. 
 
 ---
 
 ## 🧠 About Me
-- 💻 **Tech Enthusiast:** Passionate about machine learning, full-stack development, and medical technology.
-- 🥋 **Martial Artist:** Training in MMA and planning my first fight in April.
-- 🧘 **Lifelong Learner:** Always pushing myself to improve and try new things, from coding to cooking to reading new things.
+- 💻 **Tech Enthusiast:** Passionate about **machine learning, full-stack development, and medical technology**.
+- 🥋 **Martial Artist:** Training in **MMA**, with my **first fight planned for April**.
+- 📚 **Lifelong Learner:** Always pushing boundaries, whether in **coding, fitness, or new experiences**.
+- 🎯 **Goal-Driven:** I believe in continuous growth and challenging myself every day.
 
 ---
 
-## 🌟 Projects and Skills
+## 🚀 Skills & Tech Stack
 
-### 🔨 Skills
-- **Programming Languages:** Python (proficient), HTML, CSS, JavaScript (currently learning).
-- **Frameworks & Tools:** NodeJS, MySQL, Bootstrap, Figma (beginner), Notion (productivity).
-- **Data Science:** Exploring applications of machine learning in healthcare.
-- **Version Control:** Git & GitHub.
+### 💡 Tech Toolbox
+- **Languages:** Python (proficient), JavaScript, HTML, CSS.
+- **Back-End:** Node.js, MySQL.
+- **Front-End:** Bootstrap, Figma (beginner).
+- **Data Science:** Exploring **ML applications in healthcare**.
+- **Productivity & Tools:** Git, GitHub, Notion.
 
-### 🌐 Current Projects
-- **Full-Stack Coursework:** Creating a web app using NodeJS and MySQL (scheduled for March).
-- **Angela Yu's Web Development Bootcamp:** Enhancing my skills in web development.
-- **Angela Yu's 100 days of code:** Enhancing my python skills further.
-
----
-
-## 💡 Future Goals
-- 💉 Combine Machine Learning and medicine to improve healthcare outcomes.
-- 🌱 Build expertise in full-stack development.
+### 🔥 Current Projects
+- 🏗 **Full-Stack Coursework:** Developing a web app using **Node.js and MySQL** (March deadline).
+- 🎓 **Angela Yu's Web Development Bootcamp:** Strengthening **front-end & back-end skills**.
+- 💡 **100 Days of Code Challenge:** Pushing my **Python & development expertise**.
 
 ---
 
-## 📈 Fun Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrimeOleg&show_icons=true&theme=radical)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=PrimeOleg)](https://git.io/streak-stats)
+## 🎯 Future Vision
+- 💉 Combine **Machine Learning & Medicine** to improve healthcare outcomes.
+- 🌍 Develop impactful, scalable solutions through **full-stack development**.
 
 ---
 
-## 📫 Connect with Me
-- **LinkedIn:** [(https://www.linkedin.com/in/luca-eliseev/)](https://www.linkedin.com/in/luca-eliseev/)
-- **Email:** primeolek@gmail.com
+## 📊 GitHub Stats & Streak
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrimeOleg&show_icons=true&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=PrimeOleg&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+---
+
+## 🌐 Connect with Me
+- **LinkedIn:** [Luca Eliseev](https://www.linkedin.com/in/luca-eliseev/)
+- **Email:** [primeolek@gmail.com](mailto:primeolek@gmail.com)
