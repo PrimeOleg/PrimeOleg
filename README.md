@@ -15,12 +15,12 @@ Welcome to my GitHub profile! 🚀 Here, you'll find a mix of projects that refl
 
 ### 🔨 Skills
 - **Programming Languages:** Python (proficient), HTML, CSS, JavaScript (currently learning).
-- **Frameworks & Tools:** Flask, SQLite, Figma (beginner), Notion (productivity).
+- **Frameworks & Tools:** NodeJS, MySQL, Bootstrap, Figma (beginner), Notion (productivity).
 - **Data Science:** Exploring applications of machine learning in healthcare.
 - **Version Control:** Git & GitHub.
 
 ### 🌐 Current Projects
-- **Full-Stack Coursework:** Creating a web app using Flask and SQLite (scheduled for March).
+- **Full-Stack Coursework:** Creating a web app using NodeJS and MySQL (scheduled for March).
 - **Angela Yu's Web Development Bootcamp:** Enhancing my skills in web development.
 - **Angela Yu's 100 days of code:** Enhancing my python skills further.
 
