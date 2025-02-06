@@ -36,6 +36,8 @@ Welcome to my GitHub profile! 🚀 Here, you'll find a mix of projects that refl
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrimeOleg&show_icons=true&theme=radical)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=PrimeOleg)](https://git.io/streak-stats)
+
 ---
 
 ## 📫 Connect with Me
